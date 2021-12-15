@@ -2,7 +2,7 @@
 (function (WebdavCommon) {
     var sSearchErrorMessage = "Search is not supported.";
     var sSupportedFeaturesErrorMessage = "Supported Features error.";
-    var sProfindErrorMessage = "Profind request error.";
+    var sProfindErrorMessage = "PROPFIND request error.";
 
 
     ///////////////////
